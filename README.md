@@ -6,6 +6,7 @@ Welcome to Sonix, your go-to online music player! 🌟 Sonix allows users to cre
 🚀 Live Demo
 Experience Sonix in action!
 🌐 Sonix Music Player Demo
+[🌐Sonix Music Player Demo](https://sonix-player.netlify.app/)
 
 🛠️ Technologies Used
 HTML: The backbone of the website’s structure.
@@ -76,8 +77,6 @@ Open a pull request.
 If you have any questions or ideas, feel free to reach out to me!
 
 GitHub: @01-Rahul-kr
-
-Email: rahul@example.com
 
 🌟 Thank You for Checking Out Sonix! 🌟
 Enjoy your musical journey with Sonix! 🎧🎶
